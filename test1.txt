@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6E05-9DC1
+
+ Directory of C:\Users\Dell\Desktop\MyFirst GitProject
+
+07-12-2019  16:47    <DIR>          .
+07-12-2019  16:47    <DIR>          ..
+07-12-2019  16:47                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  136,514,859,008 bytes free
